@@ -2,6 +2,9 @@
  <div id="header" align="center">
  <img src="https://media2.giphy.com/media/mj4ruS6mHkdKEdmwc1/giphy.gif?cid=ecf05e47ptc0uehwenyawhw399ahik6hy8gm57v3l8xwpiu8&rid=giphy.gif&ct=g" width="300" />
  <h3 align="center">Soy un chico al que le gustar dibujar, leer, escuchar musica, jugar juegos y actualmente estoy estudiando ingenieria de sistemas.</h1>
+ 
+ 
+ <h3 aling="center">🎲Imformacion Personal:
 <!--
 **Alexander-Cio/Alexander-Cio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
