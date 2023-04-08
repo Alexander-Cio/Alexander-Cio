@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I 'm Alexander 🎮🎻✍👓💻</h1>
-<div id="header" align="center">
+ <h1 align="center">Hi 👋, I 'm Alexander 🎮🎻✍👓💻</h1>
+ <div id="header" align="center">
  <img src="https://media2.giphy.com/media/mj4ruS6mHkdKEdmwc1/giphy.gif?cid=ecf05e47ptc0uehwenyawhw399ahik6hy8gm57v3l8xwpiu8&rid=giphy.gif&ct=g" width="300" />
+ <h3 align="center">I'm a guy who likes to code, draw, read, listen to music and play games.
 <!--
 **Alexander-Cio/Alexander-Cio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
