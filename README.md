@@ -11,8 +11,8 @@
  <h5 align="left">📂 Me gusta leer y dibujar.
  <h5 align="left">📂 Actualmente estudio en la universidad Domingo Savio.
  <h5 align="left">📂 Estoy practicando pseudocódigo en pseint.
- <h5 align="left">📂 Mi correro es: alexanderprudenciomejia06@gmail.com
-<!--
+ <h5 align="left">📂 Mi correo es: alexanderprudenciomejia06@gmail.com
+
 **Alexander-Cio/Alexander-Cio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
